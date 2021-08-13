@@ -1,0 +1,1 @@
+Este diretório contém exemplos de implementação das redes Kohonen, Perceptron multicamada e Perceptron camada única.
