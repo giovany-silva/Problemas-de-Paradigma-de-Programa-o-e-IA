@@ -1,0 +1,1 @@
+Este diretório contém a implementação de algoritmos genéticos em c++, para a resolução do problema do caixeiro viajante
